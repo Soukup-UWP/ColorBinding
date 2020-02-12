@@ -1,0 +1,1 @@
+C:\Users\josep\OneDrive\Desktop\VisualStudioProjects\UWP\ColorBinding\ColorBinding.csproj;x86
